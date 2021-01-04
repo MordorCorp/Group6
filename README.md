@@ -1,10 +1,10 @@
 # Group6
-Cabañez, Angelica Rose
-Chichioco, Leila Claire
-Corpuz, Ellisa Ariane
-Felipe, Larkneil
-Loterte, Sarah
-Magayo, Jessa
-Pagcaliwagan, Ralph Vincent
-Pizon, Rendhel
-Villanueva, John Lloyd
+1. Cabañez, Angelica Rose
+2. Chichioco, Leila Claire
+3. Corpuz, Ellisa Ariane
+4. Felipe, Larkneil
+5. Loterte, Sarah
+6. Magayo, Jessa
+7. Pagcaliwagan, Ralph Vincent
+8. Pizon, Rendhel
+9. Villanueva, John Lloyd
